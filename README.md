@@ -1,2 +1,5 @@
 # Database-models-and-SQL
-Created airbnb and food bank relational database models and wrote SQL queries to extract information.
+-	Created relational data models for Airbnb Listings (12 entities) and Food Bank (8 entities)
+- wrote complex SQL queries to extract information
+- Software: MySQL Workbench
+
