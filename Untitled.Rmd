@@ -1,0 +1,19 @@
+---
+title: "sql"
+output: html_document
+date: '2023-05-16'
+---
+
+```{r setup, include=FALSE}
+SELECT * FROM ClassicModels.OrderDetails
+```
+
+
+Execute:
+> SELECT * FROM ClassicModels.OrderDetails
+
++ ---------------- + ---------------- + -------------------- + -------------- + -------------------- +
+| orderNumber      | productCode      | quantityOrdered      | priceEach      | orderLineNumber      |
++ ---------------- + ---------------- + -------------------- + -------------- + -------------------- +
+| 10107            | S10_1678         | 30                   | 81.35          | 2                    |
+| 10121            | S10_1678         | 34                   | 86.13          | 5  
