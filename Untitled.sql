@@ -1,3 +1,16 @@
+# AirBnB - Data Modeling and SQL Queries
+
+# Description: 
+# AirBnB hosts provide documentation along with their provided units to users. These documents provide
+# various information such as a unit’s appliances, a unit’s rules, or even what local attractions are 
+# close to the AirBnB units. To organize these documentations for different uses, a database model was 
+# designed, and a small amount of data was included for demonstration purpose.  SQL queries were performed 
+# against the database to extract relevant information. For example, the distance between a specific 
+# Airbnb unit and the nearest museum can be found using the database.
+
+# Software: MySQL Workbench
+
+
 #1. An Airbnb host wants to check important rules that appear in every airbnb and show all available 
 # translated versions for those rules. Language, ruleID, and TranslatedRuleid are also shown, results 
 # are ordered by language.
